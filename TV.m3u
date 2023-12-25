@@ -1,8 +1,3 @@
-#EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="THELIGHT" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", THELIGHT
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIG BOSS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Bigg_Boss_Hindi_14.jpg/revision/latest?cb=20210809010453" group-title="LIVE EVENT", BIGG BOSS
@@ -815,7 +810,7 @@ http://go.justflix.tv:80/client113/nyr1909/182
 http://go.justflix.tv:80/client113/nyr1909/159
 
 
-http://aflaxtv.xyz:8080/get.php?username=376e3840&password=bd06adee&type=m3u_plus
+#EXTM3U  x-tvg-url="http://aflaxtv.xyz:8080/get.php?username=376e3840&password=bd06adee&type=m3u_plus"
 
 
 
